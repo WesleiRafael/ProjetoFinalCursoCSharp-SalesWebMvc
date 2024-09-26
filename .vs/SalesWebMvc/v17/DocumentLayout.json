@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +19,64 @@
       "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\models\\enums\\salesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\enums\\salesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesWebMvc\\Properties\\serviceDependencies.local.json.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\migrations\\20240919021200_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240919021200_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\migrations\\20240921221730_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240921221730_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\migrations\\20240919021200_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240919021200_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\migrations\\20240925023938_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240925023938_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,32 +86,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240921221730_OtherEntities.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
-              "RelativeToolTip": "SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
+              "DocumentIndex": 8,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T22:17:30.889Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T01:04:06.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
+              "RelativeToolTip": "SalesWebMvc\\Data\\SeedingService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:41:30.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SalesWebMvcContext.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
               "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
               "RelativeToolTip": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T22:12:39.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Program.cs",
+              "RelativeToolTip": "SalesWebMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:41:43.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\SalesRecord.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\SalesRecord.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:42:08.629Z",
               "EditorCaption": ""
             },
             {
@@ -90,22 +161,9 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Seller.cs",
               "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
               "RelativeToolTip": "SalesWebMvc\\Models\\Seller.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAUwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T21:37:31.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:42:08.629Z",
               "EditorCaption": ""
             },
             {
@@ -116,14 +174,53 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
               "RelativeToolTip": "SalesWebMvc\\Models\\Department.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T17:25:19.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T01:04:06.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.local.json.user",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
+              "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-09-26T01:04:06.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SalesWebMvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T01:04:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\appsettings.json",
               "RelativeDocumentMoniker": "SalesWebMvc\\appsettings.json",
@@ -136,20 +233,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SalesStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SalesStatus.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Enums\\SalesStatus.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SalesStatus.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\Enums\\SalesStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:43:54.901Z",
+              "WhenOpened": "2024-09-18T17:20:37.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:25:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240925023938_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240925023938_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240925023938_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240925023938_InitialCreate.cs",
+              "RelativeToolTip": "SalesWebMvc\\Migrations\\20240925023938_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:39:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:43:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:42:01.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240921221730_OtherEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
+              "RelativeToolTip": "SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:17:30.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
@@ -157,12 +315,11 @@
               "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T02:06:41.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T02:06:41.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "20240919021200_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240919021200_Initial.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240919021200_Initial.cs",
@@ -171,30 +328,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T02:12:00.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:25:28.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:20:37.254Z"
             }
           ]
         }
