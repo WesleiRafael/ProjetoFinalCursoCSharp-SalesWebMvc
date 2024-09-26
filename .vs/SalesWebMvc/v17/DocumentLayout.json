@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240921221730_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\rafael\\desktop\\trabalho weslei\\saleswebmvc\\saleswebmvc\\migrations\\20240919021200_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FAB972-199C-4DB1-8D56-5311C409AA82}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240919021200_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,37 +94,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T01:04:06.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SeedingService.cs",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SeedingService.cs",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
-              "RelativeToolTip": "SalesWebMvc\\Data\\SeedingService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwE0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T22:41:30.148Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Sellers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T01:41:17.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:39:19.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SalesWebMvcContext.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
@@ -124,12 +132,37 @@
               "RelativeToolTip": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T22:12:39.209Z",
+              "WhenOpened": "2024-09-21T22:12:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T02:06:41.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
+              "RelativeToolTip": "SalesWebMvc\\Data\\SeedingService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:41:30.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
@@ -137,12 +170,11 @@
               "RelativeToolTip": "SalesWebMvc\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T22:41:43.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T22:41:43.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SalesRecord.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\SalesRecord.cs",
@@ -150,12 +182,11 @@
               "RelativeToolTip": "SalesWebMvc\\Models\\SalesRecord.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:42:08.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:42:08.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Seller.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Seller.cs",
@@ -163,12 +194,11 @@
               "RelativeToolTip": "SalesWebMvc\\Models\\Seller.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T21:37:31.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T21:37:31.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
@@ -176,12 +206,23 @@
               "RelativeToolTip": "SalesWebMvc\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:25:19.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:25:19.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T01:04:06.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "serviceDependencies.local.json",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json",
               "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.local.json",
@@ -189,12 +230,11 @@
               "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.local.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T01:04:06.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T01:04:06.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "serviceDependencies.local.json.user",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
               "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
@@ -202,12 +242,11 @@
               "RelativeToolTip": "SalesWebMvc\\Properties\\serviceDependencies.local.json.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-09-26T01:04:06.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T01:04:06.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SalesWebMvc\\Properties\\launchSettings.json",
@@ -215,12 +254,11 @@
               "RelativeToolTip": "SalesWebMvc\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T01:04:05.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T01:04:05.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\appsettings.json",
               "RelativeDocumentMoniker": "SalesWebMvc\\appsettings.json",
@@ -228,12 +266,11 @@
               "RelativeToolTip": "SalesWebMvc\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-19T01:27:33.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:27:33.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
@@ -241,12 +278,11 @@
               "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:20:37.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T17:20:37.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
@@ -254,12 +290,11 @@
               "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:25:28.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:25:28.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "20240925023938_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240925023938_InitialCreate.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240925023938_InitialCreate.cs",
@@ -271,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "SaleStatus.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
@@ -283,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
@@ -295,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "20240921221730_OtherEntities.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240921221730_OtherEntities.cs",
@@ -307,19 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T02:06:41.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "20240919021200_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Trabalho Weslei\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240919021200_Initial.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240919021200_Initial.cs",
