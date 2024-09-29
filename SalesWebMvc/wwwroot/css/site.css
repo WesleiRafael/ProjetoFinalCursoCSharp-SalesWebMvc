@@ -20,3 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+.custom-header {
+    background-color: #add8e6; /* Azul-claro */
+    color: #333; /* Cor do texto */
+}
